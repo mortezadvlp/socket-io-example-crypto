@@ -18,4 +18,4 @@ Client side of web-socket.
 This section provide a simple front. The client listens to the server and gets data from server and shows them.
 In client section, redux is used for state management.
 
-
+**For more information, read relative README.md files for each section**
