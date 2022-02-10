@@ -1,6 +1,6 @@
 [submodule "socket-io-example-crypto-client"]
 	path = socket-io-example-crypto-client
-	url = C:/Program Files/Git/socket-io-example-crypto-client
+	url = https://github.com/mortezadvlp/socket-io-example-crypto-client
 [submodule "socket-io-example-crypto-server"]
 	path = socket-io-example-crypto-server
-	url = C:/Program Files/Git/socket-io-example-crypto-server
+	url = https://github.com/mortezadvlp/socket-io-example-crypto-server
